@@ -21,6 +21,13 @@ The project's vision is to **revitalize the landscape**, enabling agricultural g
 - **Pumping Station**: Solar-powered pumps (requiring approximately **100 kWh per day**) will lift the water back upstream.
 - **Solar Infrastructure**: A **solar array of 80 square meters** will power the pumps, ensuring the project is eco-friendly and sustainable. (this corresponds to fuel 30l/day giving it an acceptable backup)
 
+## implementation specifics:
+- gather water at the end of rivers (delta) before it gets salty, optimally dont impact the rivers.
+- pump the water up again from the end of the river, as pipelines seem to be feasible and relatively low energy consuming.
+- reuse existing dry waterbeds for the downflow
+- for seasonal rivers flowing only part of the year, naybe even with with flooding period, keep water from floods to feed the river the whole year 
+
+
 ## Budget Estimate:
 1. **Pipeline Construction**: Estimated at **$100,000 to $300,000 per kilometer** depending on terrain and technology.
    - For a 300-500 km pipeline, the total cost is approximately **$30 to $150 million**.
